@@ -1,0 +1,9 @@
+/.venv
+.mypy_cache
+.env
+history.json
+/src/files/*
+!/src/files/.gitkeep
+/bin
+/dist
+/build
